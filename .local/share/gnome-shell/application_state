@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.desktop" score="1450" last-seen="1632727822"/>
+    <application id="org.gnome.Nautilus.desktop" score="41" last-seen="1632727563"/>
+    <application id="firefox.desktop" score="3612" last-seen="1632727878"/>
+    <application id="libreoffice-impress.desktop" score="1431" last-seen="1632407093"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1632396032"/>
+    <application id="code_code.desktop" score="21" last-seen="1632380586"/>
+    <application id="yelp.desktop" score="10" last-seen="1632303214"/>
+    <application id="gnome-control-center.desktop" score="3" last-seen="1632403372"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1632395481"/>
+    <application id="libreoffice-writer.desktop" score="1054" last-seen="1632407209"/>
+  </context>
+</application-state>

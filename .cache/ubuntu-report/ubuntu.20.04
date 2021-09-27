@@ -1,0 +1,80 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Inspiron 15-3567",
+    "Family": "Inspiron"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "2.5.1"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "78",
+    "Stepping": "3",
+    "Name": "Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 3.8,
+  "Disks": [
+    120
+  ],
+  "Partitions": [
+    48.4,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx194mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_ZA",
+  "Timezone": "Africa/Johannesburg",
+  "Install": {
+    "Media": "Ubuntu 20.04 LTS \"Focal Fossa\" - Release amd64 (20200423)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "reinstall_partition",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "5": "console_setup",
+      "8": "wireless",
+      "11": "prepare",
+      "50": "partman",
+      "54": "start_install",
+      "59": "timezone",
+      "63": "usersetup",
+      "86": "usersetup",
+      "95": "user_done",
+      "474": "done"
+    }
+  }
+}
