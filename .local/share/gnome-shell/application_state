@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.desktop" score="1450" last-seen="1632727822"/>
-    <application id="org.gnome.Nautilus.desktop" score="41" last-seen="1632727563"/>
-    <application id="firefox.desktop" score="3612" last-seen="1632727878"/>
-    <application id="libreoffice-impress.desktop" score="1431" last-seen="1632407093"/>
-    <application id="org.gnome.gedit.desktop" score="0" last-seen="1632396032"/>
-    <application id="code_code.desktop" score="21" last-seen="1632380586"/>
-    <application id="yelp.desktop" score="10" last-seen="1632303214"/>
-    <application id="gnome-control-center.desktop" score="3" last-seen="1632403372"/>
-    <application id="thunderbird.desktop" score="0" last-seen="1632395481"/>
-    <application id="libreoffice-writer.desktop" score="1054" last-seen="1632407209"/>
+    <application id="org.gnome.eog.desktop" score="10" last-seen="1643710220"/>
+    <application id="org.gnome.Nautilus.desktop" score="309.875" last-seen="1643713655"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="44" last-seen="1643469595"/>
+    <application id="firefox.desktop" score="16410.1171875" last-seen="1643784794"/>
+    <application id="libreoffice-writer.desktop" score="572" last-seen="1643719794"/>
+    <application id="libreoffice-impress.desktop" score="2" last-seen="1643784445"/>
+    <application id="code_code.desktop" score="15386.859375" last-seen="1643784777"/>
+    <application id="org.gnome.Terminal.desktop" score="306.875" last-seen="1643700265"/>
+    <application id="gnome-control-center.desktop" score="2.5" last-seen="1643366986"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1643231652"/>
+    <application id="shotwell.desktop" score="31" last-seen="1643710213"/>
   </context>
 </application-state>

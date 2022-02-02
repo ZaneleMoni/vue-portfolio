@@ -1,3 +1,22 @@
 {
-    "workbench.colorTheme": "Default Dark+"
+    "files.autoSave": "afterDelay",
+    "pretty-formatter.braceLine": true,
+    "pretty-formatter.braces": true,
+    "pretty-formatter.bracePadding": true,
+    "pretty-formatter.commentLine": true,
+    "pretty-formatter.comments": true,
+    "pretty-formatter.braceStyle": "collapse-preserve-inline",
+    "pretty-formatter.compressedCss": true,
+    "pretty-formatter.correct": true,
+    "pretty-formatter.cssInsertLines": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "diffEditor.renderSideBySide": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "git.suggestSmartCommit": false
 }

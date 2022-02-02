@@ -1,20 +1,284 @@
 {
     "telemetry.machineId": "7076671ea4a292495543fc96c8fdfe08779be66491009ae4c59d35ef935076e6",
     "openedPathsList": {
-        "entries": []
+        "entries": [
+            {
+                "folderUri": "file:///home/lifechoices/codepen"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/portfolio"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/timer-game"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/portfolio"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/mario-examples"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/module-project"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/timer-project"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/modal-project"
+            },
+            {
+                "folderUri": "file:///home/lifechoices"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/modal-project"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/arrayOfUsers"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/vue%20calculator"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/mycalculator"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/calculator"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/POS%20project"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Crud%20with%20bootstrap"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/CRUD%20countries"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Fetch%20Data"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/pokemon"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/pokemon2.0"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Random%20User"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Promises"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Kanye%20West%20task"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/TypingEffect"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Tom"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/firstexercise2022"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/sum%20calculation"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/built%20in%20objects"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/BMI"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/practise%20js"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/fecth"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/MyPortfolio.."
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/calculator"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/calc"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/portfolioJS"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Downloads/githubport"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/ProjectPortfolio"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/helicopter"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Online-store"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/flipcards"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/mediaquery"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/alex/navbar"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/darkJoe/DarkJoe-master"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/portfolio2.0"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/exercise"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/indexo.html"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Contact%20Home%20About"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/bootstrappy/Bootstrap"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/emmetpractise"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/19october"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/bootstrap"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/19october/Bootstrap"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/restart"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/bootstrappy"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/bootstrap2/Bootstrap"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/boxmodel"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Task"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/3"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/iframeyoutue"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/practise"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/pseudo"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/CSS-Pseudo-selector"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/htmlchallenge"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/indexz.html"
+            },
+            {
+                "folderUri": "file:///home/lifechoices/Documents/Personal%20website/ZaneleMoni.github.io"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/Contact%20Home%20About/about.jpg"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/iframeyoutue/iframe.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/boxmodel/Box.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/pseudo/https%3A/github.com/alexsexwale/boxmodel.git"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/CSS-Pseudo-selector/CSS-Pseudo-selector.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/pseudo/mypseudo.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/indexo.html/zanele.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/alex/https%3A/github.com/SeijinD/CSS-Diner-Solutions.git"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Documents/htmlchallenge/zanele.html"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/indexo.html/%3CHTML%3E"
+            },
+            {
+                "fileUri": "file:///home/lifechoices/Desktop/test.txt"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/lifechoices/.config/Code/Backups/1632222252444",
+            "folder": "file:///home/lifechoices/portfolio",
+            "backupPath": "/home/lifechoices/.config/Code/Backups/f0a4176499fc109d18ce3da0e77d38aa",
             "uiState": {
-                "mode": 1,
-                "x": 171,
+                "mode": 0,
+                "x": 72,
                 "y": 64,
-                "width": 1024,
+                "width": 1294,
                 "height": 704
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/lifechoices/codepen",
+                "backupPath": "/home/lifechoices/.config/Code/Backups/7c2dcf6f0c072ec74f22489cdf81b02b",
+                "uiState": {
+                    "mode": 0,
+                    "x": 72,
+                    "y": 64,
+                    "width": 1294,
+                    "height": 704
+                }
+            },
+            {
+                "folder": "file:///home/lifechoices/portfolio",
+                "backupPath": "/home/lifechoices/.config/Code/Backups/f0a4176499fc109d18ce3da0e77d38aa",
+                "uiState": {
+                    "mode": 0,
+                    "x": 72,
+                    "y": 64,
+                    "width": 1294,
+                    "height": 704
+                }
+            },
+            {
+                "folder": "file:///home/lifechoices/Documents/portfolio",
+                "backupPath": "/home/lifechoices/.config/Code/Backups/850e7c6122b1adc6e0e5e8860abbb82f",
+                "uiState": {
+                    "mode": 1,
+                    "x": 72,
+                    "y": 64,
+                    "width": 1294,
+                    "height": 704
+                }
+            }
+        ]
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
@@ -35,7 +299,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 299,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -65,10 +329,10 @@
                     },
                     {
                         "id": "workbench.action.openWorkspace",
-                        "label": "Open Wor&&kspace..."
+                        "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.31",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -76,6 +340,233 @@
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor",
                                     "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/lifechoices/portfolio",
+                                        "external": "file:///home/lifechoices/portfolio",
+                                        "path": "/home/lifechoices/portfolio",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/portfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/codepen",
+                                        "path": "/home/lifechoices/codepen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/codepen"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/timer-game",
+                                        "path": "/home/lifechoices/timer-game",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/timer-game"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/portfolio",
+                                        "path": "/home/lifechoices/Documents/portfolio",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/portfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/mario-examples",
+                                        "path": "/home/lifechoices/mario-examples",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/mario-examples"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/module-project",
+                                        "path": "/home/lifechoices/module-project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/module-project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/timer-project",
+                                        "path": "/home/lifechoices/timer-project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/timer-project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/modal-project",
+                                        "path": "/home/lifechoices/modal-project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/modal-project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices",
+                                        "path": "/home/lifechoices",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/lifechoices"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/modal-project",
+                                        "path": "/home/lifechoices/Documents/modal-project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/modal-project"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/Contact%20Home%20About/about.jpg",
+                                        "path": "/home/lifechoices/Documents/Contact Home About/about.jpg",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Contact Home About/about.jpg"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/iframeyoutue/iframe.html",
+                                        "path": "/home/lifechoices/Documents/iframeyoutue/iframe.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/iframeyoutue/iframe.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/boxmodel/Box.html",
+                                        "path": "/home/lifechoices/boxmodel/Box.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/boxmodel/Box.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/pseudo/https%3A/github.com/alexsexwale/boxmodel.git",
+                                        "path": "/home/lifechoices/Documents/pseudo/https:/github.com/alexsexwale/boxmodel.git",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/pseudo/https:/github.com/alexsexwale/boxmodel.git"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/CSS-Pseudo-selector/CSS-Pseudo-selector.html",
+                                        "path": "/home/lifechoices/Documents/CSS-Pseudo-selector/CSS-Pseudo-selector.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/CSS-Pseudo-selector/CSS-Pseudo-selector.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/pseudo/mypseudo.html",
+                                        "path": "/home/lifechoices/Documents/pseudo/mypseudo.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/pseudo/mypseudo.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/indexo.html/zanele.html",
+                                        "path": "/home/lifechoices/indexo.html/zanele.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/indexo.html/zanele.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/alex/https%3A/github.com/SeijinD/CSS-Diner-Solutions.git",
+                                        "path": "/home/lifechoices/Documents/alex/https:/github.com/SeijinD/CSS-Diner-Solutions.git",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/alex/https:/github.com/SeijinD/CSS-Diner-Solutions.git"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/Documents/htmlchallenge/zanele.html",
+                                        "path": "/home/lifechoices/Documents/htmlchallenge/zanele.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/htmlchallenge/zanele.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/lifechoices/indexo.html/%3CHTML%3E",
+                                        "path": "/home/lifechoices/indexo.html/<HTML>",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/indexo.html/<HTML>"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -122,17 +613,19 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "A&&uto Save"
+                        "label": "A&&uto Save",
+                        "checked": true
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -161,7 +654,7 @@
                                 },
                                 {
                                     "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
-                                    "label": "&&Keymaps"
+                                    "label": "&&Migrate Keyboard Shortcuts from..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -189,8 +682,8 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Turn on Settings Sync..."
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On"
                                 }
                             ]
                         }
@@ -205,6 +698,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -374,7 +871,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.20",
+                        "id": "submenuitem.21",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -456,7 +953,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -475,6 +972,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -568,7 +1072,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -587,7 +1092,8 @@
                     },
                     {
                         "id": "editor.action.toggleRenderControlCharacter",
-                        "label": "Render &&Control Characters"
+                        "label": "Render &&Control Characters",
+                        "checked": true
                     }
                 ]
             },
@@ -604,14 +1110,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -660,7 +1165,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.33",
+                        "id": "submenuitem.34",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -862,7 +1367,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.28",
+                        "id": "submenuitem.29",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -917,8 +1422,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -974,15 +1478,19 @@
                 "items": [
                     {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Welcome"
+                        "label": "Get Started"
                     },
                     {
-                        "id": "workbench.action.showInteractivePlayground",
-                        "label": "I&&nteractive Playground"
+                        "id": "workbench.action.showCommands",
+                        "label": "Show All Commands"
                     },
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "Editor Playgrou&&nd"
                     },
                     {
                         "id": "update.showCurrentReleaseNotes",
@@ -996,8 +1504,8 @@
                         "label": "&&Keyboard Shortcuts Reference"
                     },
                     {
-                        "id": "workbench.action.openIntroductoryVideosUrl",
-                        "label": "Introductory &&Videos"
+                        "id": "workbench.action.openVideoTutorialsUrl",
+                        "label": "&&Video Tutorials"
                     },
                     {
                         "id": "workbench.action.openTipsAndTricksUrl",
@@ -1072,10 +1580,6 @@
                 "label": "Ctrl+Shift+T",
                 "userSettingsLabel": "ctrl+shift+t"
             },
-            "workbench.action.openRecent": {
-                "label": "Ctrl+R",
-                "userSettingsLabel": "ctrl+r"
-            },
             "workbench.action.files.save": {
                 "label": "Ctrl+S",
                 "userSettingsLabel": "ctrl+s"
@@ -1097,19 +1601,20 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+s"
             },
-            "workbench.extensions.action.showRecommendedKeymapExtensions": {
-                "label": "Ctrl+K Ctrl+M",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+m"
-            },
             "workbench.action.selectTheme": {
                 "label": "Ctrl+K Ctrl+T",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+t"
             },
             "workbench.action.closeActiveEditor": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Ctrl+K Ctrl+DownArrow",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+down"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1156,12 +1661,12 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "Ctrl+/",
-                "userSettingsLabel": "ctrl+/"
+                "label": "Ctrl+Shift+/",
+                "userSettingsLabel": "ctrl+shift+/"
             },
             "editor.action.blockComment": {
-                "label": "Ctrl+Shift+A",
-                "userSettingsLabel": "ctrl+shift+a"
+                "label": "Ctrl+Shift+/",
+                "userSettingsLabel": "ctrl+shift+/"
             },
             "editor.emmet.action.expandAbbreviation": {
                 "label": "Tab",
@@ -1184,16 +1689,16 @@
                 "userSettingsLabel": "ctrl+shift+alt+up"
             },
             "editor.action.copyLinesDownAction": {
-                "label": "Ctrl+Shift+Alt+Down",
-                "userSettingsLabel": "ctrl+shift+alt+down"
+                "label": "Ctrl+Shift+D",
+                "userSettingsLabel": "ctrl+shift+d"
             },
             "editor.action.moveLinesUpAction": {
-                "label": "Alt+Up",
-                "userSettingsLabel": "alt+up"
+                "label": "Ctrl+Shift+Up",
+                "userSettingsLabel": "ctrl+shift+up"
             },
             "editor.action.moveLinesDownAction": {
-                "label": "Alt+Down",
-                "userSettingsLabel": "alt+down"
+                "label": "Ctrl+Shift+Down",
+                "userSettingsLabel": "ctrl+shift+down"
             },
             "editor.action.insertCursorAbove": {
                 "label": "Shift+Alt+Up",
@@ -1204,16 +1709,16 @@
                 "userSettingsLabel": "shift+alt+down"
             },
             "editor.action.insertCursorAtEndOfEachLineSelected": {
-                "label": "Shift+Alt+I",
-                "userSettingsLabel": "shift+alt+i"
+                "label": "Ctrl+Shift+L",
+                "userSettingsLabel": "ctrl+shift+l"
             },
             "editor.action.addSelectionToNextFindMatch": {
                 "label": "Ctrl+D",
                 "userSettingsLabel": "ctrl+d"
             },
             "editor.action.selectHighlights": {
-                "label": "Ctrl+Shift+L",
-                "userSettingsLabel": "ctrl+shift+l"
+                "label": "Alt+F3",
+                "userSettingsLabel": "alt+f3"
             },
             "workbench.action.showCommands": {
                 "label": "Ctrl+Shift+P",
@@ -1224,13 +1729,13 @@
                 "userSettingsLabel": "f11"
             },
             "workbench.action.toggleZenMode": {
-                "label": "Ctrl+K Z",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k z"
+                "label": "Shift+F11",
+                "userSettingsLabel": "shift+f11"
             },
             "workbench.action.toggleSidebarVisibility": {
-                "label": "Ctrl+B",
-                "userSettingsLabel": "ctrl+b"
+                "label": "Ctrl+K Ctrl+B",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+b"
             },
             "workbench.action.togglePanel": {
                 "label": "Ctrl+J",
@@ -1249,9 +1754,14 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.toggleEditorGroupLayout": {
-                "label": "Shift+Alt+0",
-                "userSettingsLabel": "shift+alt+0"
+                "label": "Shift+Alt+8",
+                "userSettingsLabel": "shift+alt+8"
             },
             "workbench.view.explorer": {
                 "label": "Ctrl+Shift+E",
@@ -1291,12 +1801,12 @@
                 "userSettingsLabel": "alt+z"
             },
             "workbench.action.navigateBack": {
-                "label": "Ctrl+Alt+-",
-                "userSettingsLabel": "ctrl+alt+-"
+                "label": "Alt+-",
+                "userSettingsLabel": "alt+-"
             },
             "workbench.action.navigateForward": {
-                "label": "Ctrl+Shift+-",
-                "userSettingsLabel": "ctrl+shift+-"
+                "label": "Shift+Alt+-",
+                "userSettingsLabel": "shift+alt+-"
             },
             "workbench.action.navigateToLastEditLocation": {
                 "label": "Ctrl+K Ctrl+Q",
@@ -1351,31 +1861,17 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+right"
             },
-            "workbench.action.focusAboveGroup": {
-                "label": "Ctrl+K Ctrl+UpArrow",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+up"
-            },
-            "workbench.action.focusBelowGroup": {
-                "label": "Ctrl+K Ctrl+DownArrow",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+down"
-            },
             "workbench.action.quickOpen": {
-                "label": "Ctrl+P",
-                "userSettingsLabel": "ctrl+p"
+                "label": "Ctrl+E",
+                "userSettingsLabel": "ctrl+e"
             },
             "workbench.action.showAllSymbols": {
-                "label": "Ctrl+T",
-                "userSettingsLabel": "ctrl+t"
+                "label": "Ctrl+Shift+R",
+                "userSettingsLabel": "ctrl+shift+r"
             },
             "workbench.action.gotoSymbol": {
-                "label": "Ctrl+Shift+O",
-                "userSettingsLabel": "ctrl+shift+o"
-            },
-            "editor.action.revealDefinition": {
-                "label": "F12",
-                "userSettingsLabel": "f12"
+                "label": "Ctrl+;",
+                "userSettingsLabel": "ctrl+;"
             },
             "editor.action.goToImplementation": {
                 "label": "Ctrl+F12",
@@ -1390,8 +1886,8 @@
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "Ctrl+Shift+\\",
-                "userSettingsLabel": "ctrl+shift+\\"
+                "label": "Ctrl+M",
+                "userSettingsLabel": "ctrl+m"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1433,10 +1929,6 @@
                 "label": "F11",
                 "userSettingsLabel": "f11"
             },
-            "workbench.action.debug.stepOut": {
-                "label": "Shift+F11",
-                "userSettingsLabel": "shift+f11"
-            },
             "workbench.action.debug.continue": {
                 "label": "F5",
                 "userSettingsLabel": "f5"
@@ -1471,5 +1963,6 @@
                 "userSettingsLabel": "ctrl+shift+i"
             }
         }
-    }
+    },
+    "pickerWorkingDir": "/home/lifechoices"
 }
